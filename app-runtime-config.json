@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "min_supported_version": "1.0.0",
+  "latest_version": "1.0.1",
+  "force_update": false,
+  "update_url_android": "https://play.google.com/store/apps/details?id=com.biblijnyplan.app",
+  "message": null,
+  "features": {
+    "lectio_divina": false,
+    "patristic_notes": true,
+    "historical_context": true
+  },
+  "translations": {
+    "bt": true,
+    "bw": true,
+    "be": true,
+    "br": true,
+    "esp": true,
+    "bg": true,
+    "ng": true,
+    "ug": true,
+    "bb": true,
+    "bp": true,
+    "jw": true,
+    "bm": true,
+    "ns": true,
+    "bl": true,
+    "sz": true,
+    "eib": true,
+    "snp": true,
+    "tnp": true,
+    "kjv": true,
+    "web": true,
+    "ylt": true,
+    "vul": true,
+    "gr": true,
+    "bundled_gdanska_apk": true,
+    "tysiaclecia": true
+  },
+  "providers": {
+    "biblia_info": true,
+    "biblia_pl": true,
+    "offline_green_pack": true,
+    "bundled_gdanska_apk": true
+  }
+}
